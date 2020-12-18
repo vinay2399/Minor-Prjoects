@@ -1,0 +1,2 @@
+# Minor-Prjoects
+small projects
