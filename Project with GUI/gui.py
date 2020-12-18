@@ -1,12 +1,12 @@
 from tkinter import *
 def bulb_on():
-    print('Bulb turned on')
+    print('Bulb got turned on')
 def bulb_off():
-    print('Bulb turned off')
+    print('Bulb got turned off')
 def fan_on():
-    print('Fan turned on')
+    print('Fan got turned on')
 def fan_off():
-    print('Fan turned off')
+    print('Fan got turned off')
 root=Tk()
 root.grid()
 v=IntVar()
