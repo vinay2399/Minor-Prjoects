@@ -293,6 +293,7 @@ def calculator():
         print("Please enter correct option")
         calculator()
 
+print("WELCOME TO CALCULATOR")
 calculator()
                     
 
